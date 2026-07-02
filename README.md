@@ -4,7 +4,7 @@
 <h4 align="center">🏆 Winner – Best Full Stack Development, Quasar 4.0 (National Hackathon, 1000+ teams)</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+with+Next.js+%2B+Firebase;CGPA%3A+9.54+%7C+Honours+in+Data+Science;Solving+DSA+on+LeetCode+%26+CodeChef" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+with+Next.js+%2B+Firebase;Solving+DSA+on+LeetCode+%26+CodeChef;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,8 +51,6 @@
 ### 🏆 Achievements & Certifications
 
 - 🥇 Winner – Best Full Stack Development, **Quasar 4.0** National Hackathon (1000+ teams) — 2026
-- 📈 98.95 Percentile — MHT-CET Competitive Examination — 2024
-- 🎓 School Topper, St. John's Convent High School — 2022
 - 📜 Software Engineering Job Simulation — JPMorgan Chase & Co. (Forage) — 2025
 - 📜 Generative AI Mastermind Certificate — Outskill — 2026
 
@@ -61,7 +59,7 @@
 ### 🌱 Currently
 
 - 🔭 Building full-stack apps with **Next.js**, **React**, and **Firebase**
-- 📚 Pursuing B.Tech in Computer Engineering with Honours in Data Science (CGPA: 9.54)
+- 📚 Pursuing B.Tech in Computer Engineering
 - 💬 Ask me about React, Next.js, Firebase, or DSA
 - ⚡ Fun fact: I enjoy turning ideas into working, real-time web apps
 
