@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Ali Siddiqui 👋</h1>
 
-<h3 align="center">🎓 Computer Engineering Student | 💻 Full-Stack Developer (Next.js, React, Firebase)</h3>
+<h3 align="center">🎓 Computer Engineering Student | 💻 MERN & Next.js Full-Stack Developer</h3>
 <h4 align="center">🏆 Winner – Best Full Stack Development, Quasar 4.0 (National Hackathon, 1000+ teams)</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+with+Next.js+%2B+Firebase;Solving+DSA+on+LeetCode+%26+CodeChef;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+with+MongoDB%2C+Express%2C+React%2C+Node;Crafting+fast+apps+with+Next.js+%2B+Firebase;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,react,nextjs,firebase,html,css,tailwind,git,github,vscode,electron" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,react,nodejs,express,mongodb,nextjs,firebase,html,css,tailwind,git,github,vscode,electron" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 ### 🌱 Currently
 
-- 🔭 Building full-stack apps with **Next.js**, **React**, and **Firebase**
+- 🔭 Building full-stack apps with **MERN** and **Next.js** (with Firebase)
 - 📚 Pursuing B.Tech in Computer Engineering
 - 💬 Ask me about React, Next.js, Firebase, or DSA
 - ⚡ Fun fact: I enjoy turning ideas into working, real-time web apps
