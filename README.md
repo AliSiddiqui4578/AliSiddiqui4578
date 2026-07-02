@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Ali Siddiqui 👋</h1>
 
-<h3 align="center">🎓 Student | 💻 MERN & Next.js Web Developer</h3>
+<h3 align="center">🎓 Computer Engineering Student | 💻 Full-Stack Developer (Next.js, React, Firebase)</h3>
+<h4 align="center">🏆 Winner – Best Full Stack Development, Quasar 4.0 (National Hackathon, 1000+ teams)</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+with+MongoDB%2C+Express%2C+React%2C+Node;Crafting+fast+apps+with+Next.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+with+Next.js+%2B+Firebase;CGPA%3A+9.54+%7C+Honours+in+Data+Science;Solving+DSA+on+LeetCode+%26+CodeChef" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,react,nextjs,firebase,html,css,tailwind,git,github,vscode,electron" />
 </p>
 
 ---
@@ -29,12 +30,40 @@
 
 ---
 
+### 🚀 Highlighted Projects
+
+**🏥 SwasthyaSetu — Hospital Information System**
+`TypeScript` `Next.js` `Firebase` `LiveKit` `Electron`
+- Full-stack hospital system with 7 role-based modules managing complete patient workflows
+- Multilingual voice booking with UHID and barcode-based patient identification
+- Real-time OPD/IPD management: bed allocation, queue tracking, discharge flow
+- Analytics dashboard for revenue, patient flow, and staff management
+
+**⏱️ qFlow — Queue Management System**
+`TypeScript` `Next.js` `Firebase` `Tailwind CSS`
+- Real-time queue management web app with live position tracking and wait-time estimation
+- Dual-role system for remote user requests and operator control panel
+- REST API integration with Firebase for queue data and analytics
+- Booking history, notifications, and peak-hour performance insights
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 Winner – Best Full Stack Development, **Quasar 4.0** National Hackathon (1000+ teams) — 2026
+- 📈 98.95 Percentile — MHT-CET Competitive Examination — 2024
+- 🎓 School Topper, St. John's Convent High School — 2022
+- 📜 Software Engineering Job Simulation — JPMorgan Chase & Co. (Forage) — 2025
+- 📜 Generative AI Mastermind Certificate — Outskill — 2026
+
+---
+
 ### 🌱 Currently
 
-- 🔭 Building projects with the **MERN stack** and **Next.js**
-- 📚 Learning and sharpening full-stack development skills
-- 💬 Ask me about React, Next.js, Node.js, or MongoDB
-- ⚡ Fun fact: I enjoy turning ideas into working web apps
+- 🔭 Building full-stack apps with **Next.js**, **React**, and **Firebase**
+- 📚 Pursuing B.Tech in Computer Engineering with Honours in Data Science (CGPA: 9.54)
+- 💬 Ask me about React, Next.js, Firebase, or DSA
+- ⚡ Fun fact: I enjoy turning ideas into working, real-time web apps
 
 ---
 
@@ -43,6 +72,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-siddiqui-1bb2b132a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alisiddiqui4578@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
