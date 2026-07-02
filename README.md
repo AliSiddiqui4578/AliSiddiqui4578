@@ -39,6 +39,13 @@
 - Real-time OPD/IPD management: bed allocation, queue tracking, discharge flow
 - Analytics dashboard for revenue, patient flow, and staff management
 
+**📞 AI Caller — Voice AI Calling Platform**
+`MERN` `Twilio` `WebSockets` `Sarvam AI`
+- Voice AI platform automating outbound/inbound B2B sales, lead qualification, and appointment booking calls
+- Real-time voice pipeline (VAD, streaming STT/TTS, LLM) with sub-1-second round-trip response
+- Human escalation flow with warm call transfer and full transcript handoff to agents
+- Admin dashboard for campaign setup, CRM integration, and post-call analytics (pick-up rate, qualification rate, lead scoring)
+
 **⏱️ qFlow — Queue Management System**
 `TypeScript` `Next.js` `Firebase` `Tailwind CSS`
 - Real-time queue management web app with live position tracking and wait-time estimation
